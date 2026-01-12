@@ -19,6 +19,7 @@
     "@angular/router": "^21",
     "@primeuix/themes": "^2.0.0",
     "@tailwindcss/postcss": "^4.1.4",
+    "aws-amplify": "^6.15.9",
     "chart.js": "^4.4.8",
     "postcss": "^8.5.3",
     "primeicons": "^7.0.0",
@@ -32,13 +33,19 @@
     "@angular-devkit/build-angular": "^21",
     "@angular/cli": "^21",
     "@angular/compiler-cli": "^21",
+    "@aws-amplify/backend": "^1.19.0",
+    "@aws-amplify/backend-cli": "^1.8.1",
     "@types/jasmine": "~5.1.0",
+    "aws-cdk-lib": "^2.216.0",
+    "constructs": "^10.4.4",
+    "esbuild": "^0.27.2",
     "jasmine-core": "~5.6.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
-    "typescript": "~5.9.3"
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   }
 }
